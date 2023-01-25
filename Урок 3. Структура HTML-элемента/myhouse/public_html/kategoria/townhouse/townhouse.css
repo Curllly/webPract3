@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue
+}
+h1, h2 {
+    color: darkblue;
+}
+table h2, table p {
+    margin: 0;
+    color: darkblue;
+}
+table img {
+    width: 300px;
+    margin: 0;
+}
